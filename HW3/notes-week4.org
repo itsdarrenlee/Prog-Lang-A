@@ -1,0 +1,4 @@
+HW2 -*-mode: org -*-
+#+TITLE: Homework 3
+#+AUTHOR: Darren
+#+DATE: <2022-02-09 Wed>
